@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="MarCoppelia2.png" width="85%">
+</p>
+
 # 🎥 GLOBAL SOLUTION 1 semestre de 2024  
 ## Monitoramento de Atividades Piratas no Oceano FIAP  
 ### Robótica Aplicada – 1º Semestre
@@ -44,6 +48,10 @@ O drone deve ser inserido em um dos extremos do oceano simulado, iniciando sua p
 ---
 
 ## 🧭 **CENA 4 — A MISSÃO DO DRONE**
+
+<p align="center">
+  <img src="BarcoPirata.png" width="85%">
+</p>
 
 A trajetória do drone deve seguir regras específicas:
 
