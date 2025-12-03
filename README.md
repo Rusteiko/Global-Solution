@@ -52,6 +52,7 @@ Este repositório foi criado para:
 
 // ---------------------------------------------------------------------------
 
+
 📦 global-solution-fiap
 
  ┣ 📂 Cinematica-Robotica-Industrial
@@ -63,21 +64,21 @@ Este repositório foi criado para:
  │   │   ┗ 📂 atividades/
  
  │   ┗ 📂 2025
- 
+
  │       ┣ 📄 README.md
- 
+
  │       ┗ 📂 atividades/
- 
+
   ┣ 📂 Integracao-Sistemas-Robotizados-com-Python
-  
+ 
  │   ┣ 📂 2024
- 
+
  │   │   ┣ 📄 README.md
- 
+
  │   │   ┗ 📂 atividades/
- 
+
  │   ┗ 📂 2025
- 
+
  │       ┣ 📄 README.md
  
  │       ┗ 📂 atividades/
