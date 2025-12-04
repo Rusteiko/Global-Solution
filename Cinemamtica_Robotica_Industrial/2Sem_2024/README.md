@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="magem.jpg" width="85%">
+  <img src="Imagem.jpg" width="85%">
 </p>
 
 # 🎥 GLOBAL SOLUTION 2024  
