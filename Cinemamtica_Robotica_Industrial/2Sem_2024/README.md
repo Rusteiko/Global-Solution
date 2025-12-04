@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Image.png" width="85%">
+</p>
+
 # 🎥 GLOBAL SOLUTION 2024  
 ## Energia Renovável e Automação para Comunidades Isoladas  
 ### Robótica Aplicada – 2º Semestre
