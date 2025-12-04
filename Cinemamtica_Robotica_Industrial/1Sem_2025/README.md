@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="Imagem1.png" width="85%">
+</p>
+
+
 # 🎥 SCRIPT OFICIAL – GLOBAL SOLUTION 2025  
 ## Unidade Robótica de Resgate em Áreas Isoladas  
 ### Cinemática e Robótica Industrial – 1º Semestre
